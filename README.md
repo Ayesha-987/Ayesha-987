@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayesha Shakoor</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **everything**
+-  😄 A young tech enthusiastic, who strives to learn, develop & Grow.
+
+-✏️ I'm currently doing  my Bachelor’s degree in Computer Sciences from the Government Sadiq Women College University,Bahawalpur Batch (2019-2023). 
+
+- 🌱 I’m currently learning **DevOPS**
 
 - 📫 How to reach me **ayeshashakoor2000@gmail.com**
 
-- ⚡ Fun fact **Not working online is funny thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
