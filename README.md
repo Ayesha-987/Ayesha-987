@@ -3,7 +3,7 @@
 
 -  😄 A young tech enthusiastic, who strives to learn, develop & Grow.
 
--✏️ I'm currently doing  my Bachelor’s degree in Computer Sciences from the Government Sadiq Women College University,Bahawalpur Batch (2019-2023). 
+- ✏️ I'm currently doing  my Bachelor’s degree in Computer Sciences from the Government Sadiq Women College University,Bahawalpur Batch (2019-2023). 
 
 - 🌱 I’m currently learning **DevOPS**
 
